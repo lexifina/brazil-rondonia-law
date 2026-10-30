@@ -1,0 +1,8 @@
+{
+  "path": "br-ro",
+  "code": "BR-RO",
+  "name": "Rondônia",
+  "level": "state",
+  "repo": "https://github.com/lexifina/brazil-rondonia-law",
+  "build": "built: Constituição do Estado de Rondônia (text in force), from the Assembleia Legislativa's compiled PDF"
+}

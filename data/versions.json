@@ -1,0 +1,19 @@
+{
+ "country": "BR-RO",
+ "acts": [
+  {
+   "slug": "constituicao",
+   "short": "CE-RO",
+   "title": "Constituição do Estado de Rondônia",
+   "url": "https://www.al.ro.leg.br/downloads/constituicao-do-estado-de-rondonia",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 315,
+     "source_url": "https://www.al.ro.leg.br/downloads/constituicao-do-estado-de-rondonia",
+     "sha256": "4cafbde5037938c268aa369f2289d2e4f4b71bdb61f9d4aea6902f9e25158718"
+    }
+   ]
+  }
+ ]
+}
